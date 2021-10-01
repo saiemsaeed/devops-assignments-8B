@@ -1,11 +1,7 @@
-# First Assignment
+# Assignments for devops lecture
 
-### Full Name
+- This repository will cover assignments on devops lecture. 
+- Each branch will represent one assignment.
+- Each branch will have a description about what should be done to accomplish assignment in detail. 
 
-### Project Name
-
-### Description
-
-### Deployment or Distribution Strategy
-
-### Deployment Strategy for Backned
+Good luck 
