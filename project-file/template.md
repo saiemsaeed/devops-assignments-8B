@@ -15,11 +15,13 @@
   {Specify the technology stack that you are going to use in project. Tools, technologies, languages, frameworks and etc.}
 ### Project Architecture(summary)
   {
+  
   - What is the component of your system? , 
   - How they are communicating? ,
   - Which protocols they are using to communicate?
   - How depended they are to each other,
-  - etc. You can add any detail you would like.
+  - etc. You can add any detail you would like
+  
   }
 ### Target Users of Project
  {Who is going to use your project. Define their personas}
