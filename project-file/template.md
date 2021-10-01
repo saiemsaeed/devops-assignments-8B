@@ -1,9 +1,12 @@
-### Owner Full Name
+# Project Name
 
-### Project Name
+##Project Owner
+### Full Name
+### Roll Number
 
+## Project Details
 ### Description
-
+### Target Users of Project
 ### Deployment or Distribution Strategy
-
-### Deployment Strategy for Backend
+### Technology Stack
+### Project Architecture(summary)
