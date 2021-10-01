@@ -2,28 +2,27 @@
 
 ## Project Owner
 ### Full Name
-{You Name}
+{Your Name}
+
 ### Roll Number
-{You Roll Number}
+{Your Roll Number}
 
 ## Project Details
 ### Description
   {Describe your project}
-### Deployment or Distribution Strategy
-  {What is the deployment and distribution strategy that you are going to use and why}
+
 ### Technology Stack
   {Specify the technology stack that you are going to use in project. Tools, technologies, languages, frameworks and etc.}
-### Project Architecture(summary)
+
+### Deployment or Distribution Strategy
+  {What is the deployment and distribution strategy that you are going to use and why}
+
+### Architecture
   {
-  
-  - What is the component of your system? , 
-  - How they are communicating? ,
-  - Which protocols they are using to communicate?
-  - How depended they are to each other,
+  - What are the different components of your system?
+  - How different components are communicating to each other? Which protocols they are using to communicate?
   - etc. You can add any detail you would like
-  
   }
-### Target Users of Project
- {Who is going to use your project. Define their personas}
-### Benefit
- {what benefits will accurs with making this project? to you, to users and etc.}
+
+### Target Users
+ {Who is going to use your project. Define their personas.}
