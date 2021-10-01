@@ -22,6 +22,7 @@
   - What are the different components of your system?
   - How different components are communicating to each other? Which protocols they are using to communicate?
   - etc. You can add any detail you would like
+  
  }
 
 ### Target Users
