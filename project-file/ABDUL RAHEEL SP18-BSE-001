@@ -1,0 +1,30 @@
+Project Name: HelpOnWay Roadisde Assistance
+Project Owner 
+Full Name
+{ Abdul Raheel}
+
+Roll Number
+{Sp18-bse-001}
+
+Project Details
+Description
+ The purpose of developing this system is to provide a platform to the people that need help with their vehicle if the unexpected event happens.
+ This platform will ensure road safety and there will be less chances of broken-down cars in the middle of the road that cause traffic problems.
+ Purpose of this platform is to address this issue and to provide users roadside help and assistance if vehicle breaks down and leave the person stranded. This platform would allow local users offer services as related to Vehicle repair and fuel delivery as ‘Service provider’ to earn money.
+ This platform would be developed so that it’s users could be able to travel a smart way with confidence and with peace of mind.
+ 
+ 
+Technology Stack
+Flutter ,firebase.
+
+Deployment or Distribution Strategy
+android App store
+
+Architecture
+{
+
+Mvvm is is udes in this project
+}
+
+Target Users
+General Audiance
