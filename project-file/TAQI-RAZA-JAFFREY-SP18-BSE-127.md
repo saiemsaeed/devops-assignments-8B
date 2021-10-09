@@ -18,28 +18,13 @@ techON is basically a web application which aims to make every teacher in the wo
 
 ### Technology Stack
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
 
-
-Tools And Technologies
-| Tools            |  Version   |      |  Rationale      |
-| :---             |     :---:  |      |             ---:|
-|MS Visual Studio  |   2020     |      |   IDE           |
-|MongoDBCompass    |   1.26.1   |      | DBMS            |
-|MongoDB Charts    |   2021     |      | Charts          |
-|Adobe XD          |   2021     |      | Mockups/Designs |
-|MS Word           |   2015     |      | Documentation   |
-|MS Power Point    |   2015     |      | Presentation    | 
-
-| Technology       |  Version   |      |  Rationale      |
-| :---    |        |     :---:  |      |             ---:|
-|mongodb  |        |  3.5.2     |      |Database         |
-|Angular  |        |  6.2.9     |      |Web Front-end    |
-|NodeJs   |        |  10.21.0   |      |Backend          |
-|ExpressJs|        |  4.16.0    |      |Backend framework|
+| Technology    | Second Header    |
+| ------------- | -------------    |
+|mongodb        | Database         |
+|Angular        | Web Front-end    |
+|NodeJs         | Backend          |
+|ExpressJs      | Backend framework|
 
 ### Deployment or Distribution Strategy
 
