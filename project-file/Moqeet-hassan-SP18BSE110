@@ -1,0 +1,40 @@
+#Acumen
+
+## Project Owner
+### Syed Muhammad Moqeet Ul Hassan
+
+### Roll Number
+SP18-BSE-110
+
+## Project Details
+### Description
+  An application that can be installed on your mobile devices as well as can be used on a web 
+browser, the application takes the video to recognize human faces and expressions as well as 
+behavioral gestures and movements to understand behavior. In environments like meeting, 
+presentation, classes, and conferences understanding the crowd’s interest level is very important 
+for effective and impactful communication.
+Information gathering about people's interests is a major part of our industry and using it for better 
+deliverables and product quality. One of the basic usage of this application could be, studentteacher evaluation forms will not be required if this application is used in classrooms to detect 
+student's and teacher’s behavior and interests
+
+### Technology Stack
+- Tools : Ms visio , ML kit , Facejs 
+- Technologies : Mern ,Mongo , express , react , node ,flutter
+- Languages : javascipt , dart , Html , Css
+- Frameworks : flutter
+
+### Deployment or Distribution Strategy
+  We will be using Heruku for deployment 
+For front end we will consider hosting it on Heruko or Netlify.
+For mobile app deployment we will use Google play store
+
+### Architecture
+ {
+  - Face detection amd emotion detection , behavior detection , report generation , trainer , history management
+  - Mobile and web are communicating through Api to firebase Server and node server.For Api communication we are using http protocol to request data and receive response
+ 
+  
+ }
+
+### Target Users
+ Our project is open for public use but its focused to be used by organizations into thier surveilence system but it can also be used by Lecturers, meeting hosts and presentation presenters for feedback.
