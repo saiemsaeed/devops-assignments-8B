@@ -1,0 +1,34 @@
+-Emobot
+-Khadeeja Gilani, Midhat Zahra
+-Midhat Zahra
+-SP18-BSE-071
+
+
+## Project Details: 
+   An application that helps mentally disturbed people to heal. Patient can perform mental health assesments to check what is their mental issue. 
+   Meditation and CBT activities will be assigned depending upon the assesment results. User can conversate with chatbot about his/her issues and
+   chatbot will assist accordingly through recommending meditations and CBT if required.User can check his mood by selecting any of the specific 
+   mood from UI. There is a mood log that keeps tracking user mood and it also have average mood record. User can also search for nearby therapist
+   or can directly get therapist location.
+
+
+### Technology Stack
+  -flutter           -python 
+  -Google map api    -local host api
+  -firebase          -
+
+### Deployment or Distribution Strategy
+    -We will deploy ou application on google app store.
+    
+
+### Architecture
+ {
+  - Mobile application UI is developed using flutter.
+  - We are using different machine learning models for chatbot and recommendation system. we are using local host api for communication between flutter and python.
+  - Andriod Map sdk API to connect map in flutter. 
+  - Places Api to connect or filter specific locations.
+  
+ }
+
+### Target Users
+ Mental Patient
