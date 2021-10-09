@@ -14,7 +14,15 @@ SP18-BSE-126
 ### Technology Stack
   - Laravel (Backend Framework)
   - Bootstrap (Frontend)
-  - VSCode (Editor)
+
+  #### Tools
+  - VS Code
+  - MySQL
+  - MS Office
+  - MS Word
+  - Apache
+  - MS Prensentation
+  
 
 ### Deployment or Distribution Strategy
   - Deploy to a Shared Server using FTP or upload files on server.
