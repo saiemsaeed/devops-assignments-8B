@@ -19,7 +19,7 @@ techON is basically a web application which aims to make every teacher in the wo
 ### Technology Stack
 
 
-| Technology    | Second Header    |
+| Technology    | Rationale        |
 | ------------- | -------------    |
 |mongodb        | Database         |
 |Angular        | Web Front-end    |
