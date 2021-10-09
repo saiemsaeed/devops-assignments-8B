@@ -1,0 +1,40 @@
+# Project Name
+Notify Around
+
+## Project Owner
+Mr Atique Ahmad Zafar
+
+### Full Name
+Saliha Azeem
+
+### Roll Number
+SP18-BSE-157
+
+## Project Details
+### Description
+  Notify Around is a location-based service provider, smartphone application whose purpose is to notify the people living in a community about what is going on around them.
+  These notifications will be interest based and location based.
+  It is n all-in-one platform that solves all the people's needs from taking their business idea to the most suitable area to having them engaged in what they're interested.
+  Such a system will also help them in communicating with their neighbourhoods and town and being aware of all the sources and services around them.
+
+### Technology Stack
+  Android Studio as Development framework
+  XML for Front-end 
+  Kotlin for Backend
+  Firebase Firestore as the Database
+
+### Deployment or Distribution Strategy
+  Because this is an android app, so it shall be released on the Google Playstore with Firebase database. 
+
+### Architecture
+ -The basic architecture of Notify Around is Model-View-Controller
+ -Every component has its own model, views and controllers.
+ -There are two main roles i.e. General User and Service Provider. Each of them have their own models for accessing nd modifying the database, their suitable views for user
+ interaction and controllers for the communication between model and views.
+ -For database access and modification, data classes in kotlin have been used.
+
+### Target Users
+ -A person newly moved to a place and wants to avail the services of that place and engage in the new society.
+ -A person who opened a new business in a place and wants to amplify it to the suitable audience without having the need to distribute brochures etc.
+ -A person that encounters a problem on his way and wants immediate help (e.g. car ran out of petrol)
+ -A person who just wants to know what is going on in his town (e.g. new skills, events, problems, ads of businesses near him etc)
