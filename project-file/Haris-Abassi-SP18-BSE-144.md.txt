@@ -1,0 +1,29 @@
+# Project Name
+Smart Car Parking System
+## Project Owner
+Haris Abbasi
+### Full Name
+Haris Abbasi
+
+### Roll Number
+SP18-BSE-144
+
+## Project Details
+### Description
+ The Intelligent Parking System is using the ANPR which enables the easy entry of cars in Parking lot and also finding and booking the Parking Spot to Park the car. The project focuses on our everyday problem of parking and traffic. Making it easy for people to find the parking and pay easily without the need to stand and on the parking kiosk for long time. The existing systems not only increases rush but also wastes a lot of time of people, that they wait in the parking lines for their turn to come. Every developing country is facing the problem of traffic and rush so this system can solve such problems of every developing country. The app provides a detailed information about the car park. Also, it is necessary to introduce such system in Pakistan due to the increasing population and rapid development.
+This app has features in it that enable you to easily enter the Parking Lot and find the car parking and pay through the app rather than manually taking a ticket and paying. Parker just has to register his Cars(s) on the system and then can easily park the car and pay from the app. Rest of all will be handled by the system.
+Our System also provides help to the Parking Management as they will have their web dashboard where they can see all the records, manage things easily such as parking rates and can also keep surveillance. This system automates all the efforts which Parking Managements have to do physically. 
+
+
+### Technology Stack
+  React, React Native, Firebase, OpenCv
+
+### Deployment or Distribution Strategy
+ App Store and Play Store
+
+### Architecture
+We are implementing the “Container — View pattern” in this application. Container-View pattern is the most efficient and widely used feature building pattern in react environment.
+
+
+### Target Users
+Visitor Parkers, Season Parkers and Parking management.
