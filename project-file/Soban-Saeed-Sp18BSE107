@@ -1,0 +1,55 @@
+Project Name
+{
+LocatAlert
+}
+
+Project Owner
+Full Name
+{
+Soban Saeed Butt
+}
+
+Roll Number
+{
+SP18-BSE-107
+}
+
+Project Details
+Description
+{
+LocatAlert, as the name suggest it is an alerting app based on locations that makes people alert about their daily tasks and activities that have been skipped out of the minds 
+due to busy schedules or due to memory lapses. In today’s era, the use of mobile is very common and so the use of apps, so the idea is to create such an app that reminds people
+about the tasks by locating at different areas. It is a location-based notifier. The user will be able to mark a location and once they are driving in that specific area, they 
+would be alerted by app. For alerts you can setup various distance ranges. So that after covering up some distance it may alert you timely. Its alarming feature will help the 
+user to perform the tasks efficiently just when he is close the place where the task is to be performed. In this way the app would be quite beneficial by organizing our life 
+without activities being performed at a delay.
+} 
+
+Technology Stack
+{
+Flutter
+Firebase
+AndroidStudio
+Dart
+}
+
+Deployment or Distribution Strategy
+{
+GooglePlayStore
+}
+
+Architecture
+{
+Location Alert
+Request Something (F&F)
+Appointments Reminder and Alert
+Local Reminder
+Event Reminder
+Profile Building
+Movement behavioral tracker
+ }
+
+Target Users
+{
+public
+}
