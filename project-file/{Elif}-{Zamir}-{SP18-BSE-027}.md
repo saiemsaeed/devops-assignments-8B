@@ -25,17 +25,7 @@ will be able to take the decisions with ease that in which category they want to
 seller.
 
 ### Technology Stack
-Tools:
-Visual Studio(IDE) for implementation
-Andriod Studio
-For documentation we are using Microsoft Word.
-
-Technologies:
-Flutter for Front-end.
-Firebase for backend.
-
-Language:
-Flutter (Dart)
+Tools used in project are Visual Studio(IDE) for implementation, Andriod Studio and for documentation we are using Microsoft Word. Technologies used for the project are Flutter for Front-end and Firebase for backend and the Language we are using for our project is Flutter(Dart) language. 
 
 
 ### Deployment or Distribution Strategy
