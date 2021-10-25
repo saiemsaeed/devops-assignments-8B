@@ -14,7 +14,10 @@
   where they will be able to get a multi talented professional}
 
 ### Technology Stack
-  {Creating it on MERN stack which defines all the tools and the technologies}
+  - Using React js for frontEnd.
+  - Using Node Js for creating the API end points.
+  - Using Cheerio ( node library ) for scrapping 
+  - Using Mongoose as database
 
 ### Deployment or Distribution Strategy
   {Our deployment stratergy is more like we will roll out the versions of our system if any update comes in incremental stages, more like Ramped Deployment;
